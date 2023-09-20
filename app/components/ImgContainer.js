@@ -41,7 +41,7 @@ export default function ImgContainer({ image }) {
             height={image.webformatHeight}
             sizes="350px"
             alt=""
-            className="w-full group-hover:opacity-75 transition relative pointer-eventsnone"
+            className="w-full group-hover:opacity-75 transition relative pointereventsnone"
           />
         </div>
       </div>
